@@ -5,6 +5,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
+/**
+ * Usage of spring property configuration.
+ */
 @Component
 public class EnvVars {
 
