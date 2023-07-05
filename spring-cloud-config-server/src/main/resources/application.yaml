@@ -1,0 +1,7 @@
+server.port: 8888
+
+### git backend ###
+#spring.cloud.config.server.git.uri: https://github.com/spring-cloud-samples/config-repo
+
+### local file
+spring.cloud.config.server: config/test.yaml
